@@ -3,15 +3,15 @@ KamikazeDefense_proto.swf Movie Report
 
 Frame #    Frame Bytes    Total Bytes    Scene
 -------    -----------    -----------    ----------------
-      1         232399         232399    Scene 1 (AS 3.0 Classes Export Frame)
-      2           1747         234146    
-      3          21263         255409    
-      4           1000         256409    
-      5            561         256970    
+      1         232463         232463    Scene 1 (AS 3.0 Classes Export Frame)
+      2           1747         234210    
+      3          21269         255479    
+      4           1012         256491    
+      5            557         257048    
 
 Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
 -------------------------    -----------    ----------    ------------------
-Scene 1                              278          1086                     0
+Scene 1                              274          1086                     0
 
 Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
 -------------------------    -----------    ----------    ------------------
@@ -28,7 +28,7 @@ stack_e                                0             0                     0
 mc                                    39             0                     0
 clip1_mc                             474             0                     0
 Me                                   250            28                     0
-clip2_mc                            1175             0                     0
+clip2_mc                            1176             0                     0
 Symbol 1ttt                           53             0                     0
 bar_mc                               137             0                     0
 holder_mc                              0             0                     0
@@ -42,11 +42,11 @@ clip6_mc                             109             0                     0
 clip5_mc                             808             0                     0
 clip7_mc                             780             0                     0
 clip9_mc                               0             0                     0
-clip10_mc                           1467             0                     0
+clip10_mc                           1468             0                     0
 clip11_mc                           1266             0                     0
-clip12_mc                           1128             0                     0
-clip13_mc                           2759             0                     0
-clip14_mc                            695             0                     0
+clip12_mc                           1129             0                     0
+clip13_mc                           2760             0                     0
+clip14_mc                            696             0                     0
 stack_Machine                          0             0                     0
 stack_Fire                            61             0                     0
 stack_Lazer                            0             0                     0
@@ -55,7 +55,7 @@ powerClip                             37           138                     0
 powerClip_                             0             0                     0
 Default                              213             0                     0
 Powerups                               0             0                     0
-Explosion                           2414             0                     0
+Explosion                           2415             0                     0
 Level1                                 0             0                     0
 Level2                                 0             0                     0
 Level3                                 0             0                     0
@@ -63,20 +63,20 @@ Level4                                 0             0                     0
 Level5                                 0             0                     0
 Level6                                 0             0                     0
 boss_01                              691             0                     0
-boss_02                             1829             0                     0
-boss_04                             1231             0                     0
-boss_05                             3420             0                     0
+boss_02                             1830             0                     0
+boss_04                             1232             0                     0
+boss_05                             3421             0                     0
 boss_06                              757             0                     0
-boss_03                             2420             0                     0
+boss_03                             2421             0                     0
 Boss                                   0             0                     0
 Truck_02                            1505             0                     0
 Truck_01                             580             0                     0
 Trucks                                 0             0                     0
 Tank_01                              830             0                     0
-Tank_02                              920             0                     0
+Tank_02                              921             0                     0
 Tanks                                  0             0                     0
 Chopper_02                           309             0                     0
-Chopper_01                           885             0                     0
+Chopper_01                           886             0                     0
 Choppers                               0             0                     0
 Jet_02                               108             0                     0
 Jet_01                               156             0                     0
@@ -88,7 +88,7 @@ Multi                                147             0                     0
 Laser                                141             0                     0
 Health                               153             0                     0
 Shield                               171             0                     0
-PlayButton                           100            44                     0
+PlayButton                           110            44                     0
 MultiBulletGraphic                   131             0                     0
 EnemyBulletGraphic                   131             0                     0
 RapidBulletGraphic                   120             0                     0
@@ -98,19 +98,19 @@ WinPopUp                              39           305                     0
 LevelWinPopUp                          0             0                     0
 LevelSelectionButton                   0           118                     0
 NextLevelButton                        0            53                     0
-playAgainButton                       98            51                     0
+playAgainButton                        0            51                     0
 CampaignButton                         0            98                     0
 SurvivalButton                         0           100                     0
 HelpButton                             0            94                     0
-MissionBrief                          89           716                     0
-HealthBar                           1626             0                     0
+MissionBrief                         101           716                     0
+HealthBar                           1628             0                     0
 HealthBar copy                         0             0                     0
 ShieldBar                             75             0                     0
 ShieldBar copy                         0             0                     0
 ins                                   58             0                     0
 
 
-Tweened Shapes: 6144 bytes
+Tweened Shapes: 6145 bytes
 
 Font Name                 Bytes        Characters    
 ----------------------    ---------    --------------
@@ -118,25 +118,25 @@ Perfect Dark (BRK)              389    ADEPSU
 Arial Black                     140    >|
 Times                            28    
 Times Bold                     1056    FHLMSau
-Arial Bold                     4065     !,-.0123456789:DEFHIMSTWabcdefghiklmnoprstuvwy
-Usuzi                          4256     !,-.0123456789:ABCDEFGHIJKLMNOPRSTUVWXY[]abegiklnorsy
+Arial Bold                     4067     !,-.0123456789:DEFHIMSTWabcdefghiklmnoprstuvwy
+Usuzi                          4257     !,-.0123456789:ABCDEFGHIJKLMNOPRSTUVWXY[]abegiklnorsy
 
 ActionScript Bytes    Location
 ------------------    --------
-             23701    ActionScript 3.0 Classes
+             23791    ActionScript 3.0 Classes
 
 Bitmap                     Compressed    Compression
 -----------------------    ----------  --------  -----------
-BG_650x380                      4529      988000   JPEG Quality=50
-MainScreen.jpg                108790     1170000   Imported JPEG=102
-WinLoseScreen.jpg              16558     1248000   JPEG Quality=50
-WinScreen.jpg                  14373     1248000   JPEG Quality=50
-1.png                           3511       63648   JPEG Quality=50
-2.png                           3497       63648   JPEG Quality=50
-3.png                           3681       63648   JPEG Quality=50
-4.png                           3286       63648   JPEG Quality=50
-5.png                           3515       63648   JPEG Quality=50
-6.png                           3177       63648   JPEG Quality=50
+BG_650x380                      4530      988000   JPEG Quality=50
+MainScreen.jpg                108823     1170000   Imported JPEG=102
+WinLoseScreen.jpg              16563     1248000   JPEG Quality=50
+WinScreen.jpg                  14378     1248000   JPEG Quality=50
+1.png                           3512       63648   JPEG Quality=50
+2.png                           3498       63648   JPEG Quality=50
+3.png                           3682       63648   JPEG Quality=50
+4.png                           3287       63648   JPEG Quality=50
+5.png                           3516       63648   JPEG Quality=50
+6.png                           3178       63648   JPEG Quality=50
 
 
 
