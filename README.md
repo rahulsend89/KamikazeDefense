@@ -12,7 +12,7 @@ Comman.as Basic Structural Class Use By Bose1.as,Enemy.as,Enemy_.as & stackBulle
 it contain basic function which used by most of classes.
 
 stackBullet.as baseClass of(stack,stack_e,stack_Fire,stack_Lazer,stack_Machine)
-Comman class for every bullet Fired by enemy and user
+Common class for every bullet Fired by enemy and user
 
 there are 2 bullet holder bulletholder_mc,shipbulletholder_mc
 shipbulletholder_mc is for Me bullets and bulletholder_mc is for Enemy 
@@ -29,6 +29,6 @@ Awesome Enemy.
 `(Power)` is a class which decide when power up appear from above.
 it contain code for basic drop animation with random speed and random position.
 
-`(powerInd)` is class which used by clip just to show which powerup is activated . 
+`(powerInd)` is class which used by clip just to show which power-up is activated . 
 
 `(GameClass)` contains main game code logic.
